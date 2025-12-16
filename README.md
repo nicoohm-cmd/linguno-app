@@ -1,0 +1,1 @@
+# linguno-app
